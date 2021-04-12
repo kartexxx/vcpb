@@ -14,4 +14,4 @@ SUDO_USERS = [
     1392620345
 ]
 
-CHAT_ID = -1001243271409  # ID of the group where the bot streams
+CHAT_ID = -1001475236037  # ID of the group where the bot streams
